@@ -240,7 +240,7 @@
   
   @media only screen and (max-width: 600px) {
     .logo {
-      width: 150px;
+      width: 120px;
     }
   
     nav button {
@@ -253,12 +253,12 @@
     }
   
     .anim {
-      font-size: 2em;
+      font-size: 1em;
     }
   
     .splash {
-      width: 350px;
-      height: 350px;
+      width: 320px;
+      height: 320px;
     }
   
     .text-col,
